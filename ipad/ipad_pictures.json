@@ -1,0 +1,105 @@
+{
+ "gen5": {
+  "Silver": [
+   "ipad/gen5/silver/01.jpg",
+   "ipad/gen5/silver/02.jpg",
+   "ipad/ipad-9-7/silver/02.jpg",
+   "ipad/ipad-9-7/silver/03.jpg"
+  ],
+  "Gold": [
+   "ipad/gen5/gold/01.jpg",
+   "ipad/gen5/gold/02.jpg",
+   "ipad/ipad-9-7/gold/02.jpg",
+   "ipad/ipad-9-7/gold/03.jpg"
+  ],
+  "Space Grey": [
+   "ipad/gen5/space-grey/01.jpg",
+   "ipad/gen5/space-grey/02.jpg",
+   "ipad/ipad-9-7/space-grey/02.jpg"
+  ],
+  "_group": "ipad/gen5/group.jpg"
+ },
+ "gen6": {
+  "Silver": [
+   "ipad/gen6/silver/01.jpg",
+   "ipad/gen6/silver/02.jpg",
+   "ipad/ipad-9-7/silver/02.jpg",
+   "ipad/ipad-9-7/silver/03.jpg"
+  ],
+  "Gold": [
+   "ipad/gen6/gold/01.jpg",
+   "ipad/gen6/gold/02.jpg",
+   "ipad/ipad-9-7/gold/02.jpg",
+   "ipad/ipad-9-7/gold/03.jpg"
+  ],
+  "Space Grey": [
+   "ipad/gen6/space-grey/01.jpg",
+   "ipad/gen6/space-grey/02.jpg",
+   "ipad/ipad-9-7/space-grey/02.jpg"
+  ],
+  "_group": "ipad/gen6/group.jpg"
+ },
+ "gen7": {
+  "Silver": [
+   "ipad/gen7/silver/01.jpg",
+   "ipad/gen7/silver/02.jpg",
+   "ipad/ipad-10-2-gen8/silver/02.jpg",
+   "ipad/ipad-10-2-gen8/silver/03.jpg",
+   "ipad/ipad-10-2-gen8/silver/04.jpg"
+  ],
+  "Gold": [
+   "ipad/gen7/gold/01.jpg",
+   "ipad/gen7/gold/02.jpg",
+   "ipad/ipad-10-2-gen8/gold/02.jpg",
+   "ipad/ipad-10-2-gen8/gold/03.jpg",
+   "ipad/ipad-10-2-gen8/gold/04.jpg"
+  ],
+  "Space Grey": [
+   "ipad/gen7/space-grey/01.jpg",
+   "ipad/gen7/space-grey/02.jpg",
+   "ipad/ipad-10-2-gen8/space-grey/02.jpg",
+   "ipad/ipad-10-2-gen8/space-grey/03.jpg",
+   "ipad/ipad-10-2-gen8/space-grey/04.jpg"
+  ],
+  "_group": "ipad/gen7/group.jpg"
+ },
+ "gen8": {
+  "Silver": [
+   "ipad/gen8/silver/01.jpg",
+   "ipad/gen8/silver/02.jpg",
+   "ipad/ipad-10-2-gen8/silver/02.jpg",
+   "ipad/ipad-10-2-gen8/silver/03.jpg",
+   "ipad/ipad-10-2-gen8/silver/04.jpg"
+  ],
+  "Gold": [
+   "ipad/gen8/gold/01.jpg",
+   "ipad/gen8/gold/02.jpg",
+   "ipad/ipad-10-2-gen8/gold/02.jpg",
+   "ipad/ipad-10-2-gen8/gold/03.jpg",
+   "ipad/ipad-10-2-gen8/gold/04.jpg"
+  ],
+  "Space Grey": [
+   "ipad/gen8/space-grey/01.jpg",
+   "ipad/gen8/space-grey/02.jpg",
+   "ipad/ipad-10-2-gen8/space-grey/02.jpg",
+   "ipad/ipad-10-2-gen8/space-grey/03.jpg",
+   "ipad/ipad-10-2-gen8/space-grey/04.jpg"
+  ],
+  "_group": "ipad/gen8/group.jpg"
+ },
+ "gen9": {
+  "Silver": [
+   "ipad/ipad-10-2-gen9/silver/01.jpg",
+   "ipad/ipad-10-2-gen9/silver/02.jpg",
+   "ipad/ipad-10-2-gen9/silver/03.jpg",
+   "ipad/ipad-10-2-gen9/silver/04.jpg"
+  ],
+  "Space Grey": [
+   "ipad/ipad-10-2-gen9/space-grey/01.jpg",
+   "ipad/ipad-10-2-gen9/space-grey/02.jpg",
+   "ipad/ipad-10-2-gen9/space-grey/03.jpg",
+   "ipad/ipad-10-2-gen9/space-grey/04.jpg"
+  ],
+  "_group": "ipad/ipad-10-2-gen9/group.jpg"
+ }
+}
