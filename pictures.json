@@ -313,8 +313,11 @@
  },
  "galaxy-tab-a11": {
   "Grey": [
-   "galaxy-tab-a11/grey/01.jpg",
-   "galaxy-tab-a11/grey/02.jpg",
+   "galaxy-tab-a11/amz/grey/01.jpg",
+   "galaxy-tab-a11/amz/grey/03.jpg",
+   "galaxy-tab-a11/amz/grey/02.jpg",
+   "galaxy-tab-a11/amz/grey/04.jpg",
+   "galaxy-tab-a11/amz/grey/05.jpg",
    "galaxy-tab-a11/grey/03.jpg",
    "galaxy-tab-a11/grey/04.jpg",
    "galaxy-tab-a11/grey/05.jpg",
@@ -322,7 +325,7 @@
   ],
   "Silver": [
    "galaxy-tab-a11/silver/01.jpg",
-   "galaxy-tab-a11/silver/02.jpg",
+   "galaxy-tab-a11/amz/silver/02.jpg",
    "galaxy-tab-a11/silver/03.jpg",
    "galaxy-tab-a11/silver/04.jpg",
    "galaxy-tab-a11/silver/05.jpg",
@@ -331,16 +334,19 @@
  },
  "galaxy-tab-a11-plus": {
   "Grey": [
-   "galaxy-tab-a11-plus/grey/01.jpg",
-   "galaxy-tab-a11-plus/grey/02.jpg",
+   "galaxy-tab-a11-plus/amz/grey/01.jpg",
+   "galaxy-tab-a11-plus/amz/grey/02.jpg",
+   "galaxy-tab-a11-plus/amz/grey/03.jpg",
+   "galaxy-tab-a11-plus/amz/grey/04.jpg",
    "galaxy-tab-a11-plus/grey/03.jpg",
    "galaxy-tab-a11-plus/grey/04.jpg",
    "galaxy-tab-a11-plus/grey/05.jpg",
    "galaxy-tab-a11-plus/grey/06.jpg"
   ],
   "Silver": [
-   "galaxy-tab-a11-plus/silver/01.jpg",
-   "galaxy-tab-a11-plus/silver/02.jpg",
+   "galaxy-tab-a11-plus/amz/silver/01.jpg",
+   "galaxy-tab-a11-plus/amz/silver/02.jpg",
+   "galaxy-tab-a11-plus/amz/silver/03.jpg",
    "galaxy-tab-a11-plus/silver/03.jpg",
    "galaxy-tab-a11-plus/silver/04.jpg",
    "galaxy-tab-a11-plus/silver/05.jpg",
