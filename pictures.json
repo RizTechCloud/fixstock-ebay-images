@@ -20,6 +20,16 @@
    "galaxy-a26-5g/white/03.jpg",
    "galaxy-a26-5g/white/04.jpg",
    "galaxy-a26-5g/white/05.jpg"
+  ],
+  "Peach Pink": [
+   "galaxy-a26-5g/peach-pink/00_hero.jpg",
+   "galaxy-a26-5g/peach-pink/04.jpg",
+   "galaxy-a26-5g/peach-pink/01.jpg",
+   "galaxy-a26-5g/peach-pink/05.jpg",
+   "galaxy-a26-5g/peach-pink/06.jpg",
+   "galaxy-a26-5g/peach-pink/02.jpg",
+   "galaxy-a26-5g/peach-pink/03.jpg",
+   "galaxy-a26-5g/peach-pink/07.jpg"
   ]
  },
  "galaxy-a36-5g": {
@@ -335,6 +345,38 @@
    "galaxy-tab-a11-plus/silver/04.jpg",
    "galaxy-tab-a11-plus/silver/05.jpg",
    "galaxy-tab-a11-plus/silver/06.jpg"
+  ]
+ },
+ "galaxy-a18": {
+  "Black": [
+   "galaxy-a18/black/00_hero.jpg",
+   "galaxy-a18/black/02.jpg",
+   "galaxy-a18/black/03.jpg",
+   "galaxy-a18/black/04.jpg",
+   "galaxy-a18/black/01.jpg",
+   "galaxy-a18/black/05.jpg",
+   "galaxy-a18/black/06.jpg",
+   "galaxy-a18/black/07.jpg"
+  ],
+  "Light Blue": [
+   "galaxy-a18/light-blue/00_hero.jpg",
+   "galaxy-a18/light-blue/03.jpg",
+   "galaxy-a18/light-blue/04.jpg",
+   "galaxy-a18/light-blue/05.jpg",
+   "galaxy-a18/light-blue/02.jpg",
+   "galaxy-a18/light-blue/01.jpg",
+   "galaxy-a18/light-blue/06.jpg",
+   "galaxy-a18/light-blue/07.jpg"
+  ],
+  "Silver": [
+   "galaxy-a18/silver/00_hero.jpg",
+   "galaxy-a18/silver/02.jpg",
+   "galaxy-a18/silver/03.jpg",
+   "galaxy-a18/silver/04.jpg",
+   "galaxy-a18/silver/01.jpg",
+   "galaxy-a18/silver/05.jpg",
+   "galaxy-a18/silver/06.jpg",
+   "galaxy-a18/silver/07.jpg"
   ]
  }
 }
