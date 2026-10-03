@@ -1,0 +1,68 @@
+{
+ "galaxy-a08": {
+  "Dark Blue": [
+   "galaxy-a08/dark-blue/00_hero.jpg",
+   "galaxy-a08/dark-blue/01.jpg",
+   "galaxy-a08/dark-blue/02.jpg",
+   "galaxy-a08/dark-blue/03.jpg",
+   "galaxy-a08/dark-blue/04.jpg",
+   "galaxy-a08/dark-blue/05.jpg",
+   "galaxy-a08/dark-blue/06.jpg"
+  ],
+  "Silver": [
+   "galaxy-a08/silver/00_hero.jpg",
+   "galaxy-a08/silver/01.jpg",
+   "galaxy-a08/silver/02.jpg",
+   "galaxy-a08/silver/03.jpg",
+   "galaxy-a08/silver/04.jpg",
+   "galaxy-a08/silver/05.jpg",
+   "galaxy-a08/silver/06.jpg"
+  ],
+  "Green": [
+   "galaxy-a08/green/00_hero.jpg",
+   "galaxy-a08/green/01.jpg",
+   "galaxy-a08/green/02.jpg",
+   "galaxy-a08/green/03.jpg",
+   "galaxy-a08/green/04.jpg",
+   "galaxy-a08/green/05.jpg",
+   "galaxy-a08/green/06.jpg"
+  ],
+  "_group": "galaxy-a08/group/00_all_colours.jpg"
+ },
+ "galaxy-a07": {
+  "Black": [
+   "galaxy-a07/black/00_hero.jpg",
+   "galaxy-a07/black/01.jpg",
+   "galaxy-a07/black/02.jpg",
+   "galaxy-a07/black/03.jpg",
+   "galaxy-a07/black/04.jpg",
+   "galaxy-a07/black/05.jpg",
+   "galaxy-a07/black/06.jpg",
+   "galaxy-a07/black/07.jpg",
+   "galaxy-a07/black/08.jpg"
+  ],
+  "Light Violet": [
+   "galaxy-a07/light-violet/00_hero.jpg",
+   "galaxy-a07/light-violet/01.jpg",
+   "galaxy-a07/light-violet/02.jpg",
+   "galaxy-a07/light-violet/03.jpg",
+   "galaxy-a07/light-violet/04.jpg",
+   "galaxy-a07/light-violet/05.jpg",
+   "galaxy-a07/light-violet/06.jpg",
+   "galaxy-a07/light-violet/07.jpg",
+   "galaxy-a07/light-violet/08.jpg"
+  ],
+  "Green": [
+   "galaxy-a07/green/00_hero.jpg",
+   "galaxy-a07/green/01.jpg",
+   "galaxy-a07/green/02.jpg",
+   "galaxy-a07/green/03.jpg",
+   "galaxy-a07/green/04.jpg",
+   "galaxy-a07/green/05.jpg",
+   "galaxy-a07/green/06.jpg",
+   "galaxy-a07/green/07.jpg",
+   "galaxy-a07/green/08.jpg"
+  ],
+  "_group": "galaxy-a07/group/00_all_colours.jpg"
+ }
+}
