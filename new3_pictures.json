@@ -1,0 +1,70 @@
+{
+ "galaxy-a13-5g": {
+  "Black": [
+   "galaxy-a13-5g/black/00_hero.jpg",
+   "galaxy-a13-5g/black/01.jpg",
+   "galaxy-a13-5g/black/02.jpg",
+   "galaxy-a13-5g/black/03.jpg",
+   "galaxy-a13-5g/black/04.jpg",
+   "galaxy-a13-5g/black/05.jpg",
+   "galaxy-a13-5g/black/06.jpg",
+   "galaxy-a13-5g/black/07.jpg"
+  ],
+  "Coral": [
+   "galaxy-a13-5g/coral/00_hero.jpg",
+   "galaxy-a13-5g/coral/01.jpg",
+   "galaxy-a13-5g/coral/02.jpg",
+   "galaxy-a13-5g/coral/03.jpg",
+   "galaxy-a13-5g/coral/04.jpg",
+   "galaxy-a13-5g/coral/05.jpg",
+   "galaxy-a13-5g/coral/06.jpg",
+   "galaxy-a13-5g/coral/07.jpg"
+  ],
+  "_group": "galaxy-a13-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-a15-5g": {
+  "Blue Black": [
+   "galaxy-a15-5g/blue-black/00_hero.jpg",
+   "galaxy-a15-5g/blue-black/01.jpg",
+   "galaxy-a15-5g/blue-black/02.jpg",
+   "galaxy-a15-5g/blue-black/03.jpg",
+   "galaxy-a15-5g/blue-black/04.jpg",
+   "galaxy-a15-5g/blue-black/05.jpg",
+   "galaxy-a15-5g/blue-black/06.jpg",
+   "galaxy-a15-5g/blue-black/07.jpg"
+  ],
+  "Blue": [
+   "galaxy-a15-5g/blue/00_hero.jpg",
+   "galaxy-a15-5g/blue/01.jpg",
+   "galaxy-a15-5g/blue/02.jpg",
+   "galaxy-a15-5g/blue/03.jpg",
+   "galaxy-a15-5g/blue/04.jpg",
+   "galaxy-a15-5g/blue/05.jpg",
+   "galaxy-a15-5g/blue/06.jpg",
+   "galaxy-a15-5g/blue/07.jpg"
+  ],
+  "Yellow": [
+   "galaxy-a15-5g/yellow/00_hero.jpg",
+   "galaxy-a15-5g/yellow/01.jpg",
+   "galaxy-a15-5g/yellow/02.jpg",
+   "galaxy-a15-5g/yellow/03.jpg",
+   "galaxy-a15-5g/yellow/04.jpg",
+   "galaxy-a15-5g/yellow/05.jpg",
+   "galaxy-a15-5g/yellow/06.jpg",
+   "galaxy-a15-5g/yellow/07.jpg"
+  ],
+  "_group": "galaxy-a15-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-s24": {
+  "Onyx Black": [
+   "galaxy-s24/onyx-black/00_hero.jpg",
+   "galaxy-s24/onyx-black/01.jpg",
+   "galaxy-s24/onyx-black/02.jpg",
+   "galaxy-s24/onyx-black/03.jpg",
+   "galaxy-s24/onyx-black/04.jpg",
+   "galaxy-s24/onyx-black/05.jpg",
+   "galaxy-s24/onyx-black/06.jpg"
+  ],
+  "_group": "galaxy-s24/onyx-black/00_hero.jpg"
+ }
+}
