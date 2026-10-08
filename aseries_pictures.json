@@ -1,0 +1,213 @@
+{
+ "galaxy-a13": {
+  "Black": [
+   "galaxy-a13/black/00_hero.jpg",
+   "galaxy-a13/black/01.jpg",
+   "galaxy-a13/black/02.jpg",
+   "galaxy-a13/black/03.jpg",
+   "galaxy-a13/black/04.jpg",
+   "galaxy-a13/black/05.jpg",
+   "galaxy-a13/black/06.jpg"
+  ],
+  "White": [
+   "galaxy-a13/white/00_hero.jpg",
+   "galaxy-a13/white/01.jpg",
+   "galaxy-a13/white/02.jpg",
+   "galaxy-a13/white/03.jpg",
+   "galaxy-a13/white/04.jpg",
+   "galaxy-a13/white/05.jpg",
+   "galaxy-a13/white/06.jpg"
+  ],
+  "Light Blue": [
+   "galaxy-a13/light-blue/00_hero.jpg",
+   "galaxy-a13/light-blue/01.jpg",
+   "galaxy-a13/light-blue/02.jpg",
+   "galaxy-a13/light-blue/03.jpg",
+   "galaxy-a13/light-blue/04.jpg",
+   "galaxy-a13/light-blue/05.jpg",
+   "galaxy-a13/light-blue/06.jpg"
+  ],
+  "Orange": [
+   "galaxy-a13/orange/00_hero.jpg",
+   "galaxy-a13/orange/01.jpg",
+   "galaxy-a13/orange/02.jpg",
+   "galaxy-a13/orange/03.jpg",
+   "galaxy-a13/orange/04.jpg",
+   "galaxy-a13/orange/05.jpg",
+   "galaxy-a13/orange/06.jpg"
+  ],
+  "_group": "galaxy-a13/group/00_all_colours.jpg"
+ },
+ "galaxy-a16-5g": {
+  "Blue Black": [
+   "galaxy-a16-5g/blue-black/00_hero.jpg",
+   "galaxy-a16-5g/blue-black/01.jpg",
+   "galaxy-a16-5g/blue-black/02.jpg",
+   "galaxy-a16-5g/blue-black/03.jpg",
+   "galaxy-a16-5g/blue-black/04.jpg",
+   "galaxy-a16-5g/blue-black/05.jpg",
+   "galaxy-a16-5g/blue-black/06.jpg"
+  ],
+  "Light Green": [
+   "galaxy-a16-5g/light-green/00_hero.jpg",
+   "galaxy-a16-5g/light-green/01.jpg",
+   "galaxy-a16-5g/light-green/02.jpg",
+   "galaxy-a16-5g/light-green/03.jpg",
+   "galaxy-a16-5g/light-green/04.jpg",
+   "galaxy-a16-5g/light-green/05.jpg",
+   "galaxy-a16-5g/light-green/06.jpg"
+  ],
+  "Light Grey": [
+   "galaxy-a16-5g/light-grey/00_hero.jpg",
+   "galaxy-a16-5g/light-grey/01.jpg",
+   "galaxy-a16-5g/light-grey/02.jpg",
+   "galaxy-a16-5g/light-grey/03.jpg",
+   "galaxy-a16-5g/light-grey/04.jpg",
+   "galaxy-a16-5g/light-grey/05.jpg",
+   "galaxy-a16-5g/light-grey/06.jpg"
+  ],
+  "_group": "galaxy-a16-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-a21s": {
+  "Prism Crush Black": [
+   "galaxy-a21s/black/00_hero.jpg",
+   "galaxy-a21s/black/01.jpg",
+   "galaxy-a21s/black/02.jpg",
+   "galaxy-a21s/black/03.jpg",
+   "galaxy-a21s/black/04.jpg",
+   "galaxy-a21s/black/05.jpg",
+   "galaxy-a21s/black/06.jpg"
+  ],
+  "Prism Crush Blue": [
+   "galaxy-a21s/blue/00_hero.jpg",
+   "galaxy-a21s/blue/01.jpg",
+   "galaxy-a21s/blue/02.jpg",
+   "galaxy-a21s/blue/03.jpg",
+   "galaxy-a21s/blue/04.jpg",
+   "galaxy-a21s/blue/05.jpg",
+   "galaxy-a21s/blue/06.jpg"
+  ],
+  "Prism Crush White": [
+   "galaxy-a21s/white/00_hero.jpg",
+   "galaxy-a21s/white/01.jpg",
+   "galaxy-a21s/white/02.jpg",
+   "galaxy-a21s/white/03.jpg",
+   "galaxy-a21s/white/04.jpg",
+   "galaxy-a21s/white/05.jpg",
+   "galaxy-a21s/white/06.jpg"
+  ],
+  "Prism Silver": [
+   "galaxy-a21s/silver/00_hero.jpg",
+   "galaxy-a21s/silver/01.jpg",
+   "galaxy-a21s/silver/02.jpg",
+   "galaxy-a21s/silver/03.jpg",
+   "galaxy-a21s/silver/04.jpg",
+   "galaxy-a21s/silver/05.jpg",
+   "galaxy-a21s/silver/06.jpg"
+  ],
+  "_group": "galaxy-a21s/group/00_all_colours.jpg"
+ },
+ "galaxy-a53-5g": {
+  "Awesome Black": [
+   "galaxy-a53-5g/black/00_hero.jpg",
+   "galaxy-a53-5g/black/01.jpg",
+   "galaxy-a53-5g/black/02.jpg",
+   "galaxy-a53-5g/black/03.jpg",
+   "galaxy-a53-5g/black/04.jpg",
+   "galaxy-a53-5g/black/05.jpg",
+   "galaxy-a53-5g/black/06.jpg",
+   "galaxy-a53-5g/black/07.jpg"
+  ],
+  "Awesome Blue": [
+   "galaxy-a53-5g/blue/00_hero.jpg",
+   "galaxy-a53-5g/blue/01.jpg",
+   "galaxy-a53-5g/blue/02.jpg",
+   "galaxy-a53-5g/blue/03.jpg",
+   "galaxy-a53-5g/blue/04.jpg",
+   "galaxy-a53-5g/blue/05.jpg",
+   "galaxy-a53-5g/blue/06.jpg",
+   "galaxy-a53-5g/blue/07.jpg"
+  ],
+  "Awesome Peach": [
+   "galaxy-a53-5g/peach/00_hero.jpg",
+   "galaxy-a53-5g/peach/01.jpg",
+   "galaxy-a53-5g/peach/02.jpg",
+   "galaxy-a53-5g/peach/03.jpg",
+   "galaxy-a53-5g/peach/04.jpg",
+   "galaxy-a53-5g/peach/05.jpg",
+   "galaxy-a53-5g/peach/06.jpg",
+   "galaxy-a53-5g/peach/07.jpg"
+  ],
+  "Awesome White": [
+   "galaxy-a53-5g/white/00_hero.jpg",
+   "galaxy-a53-5g/white/01.jpg",
+   "galaxy-a53-5g/white/02.jpg",
+   "galaxy-a53-5g/white/03.jpg",
+   "galaxy-a53-5g/white/04.jpg",
+   "galaxy-a53-5g/white/05.jpg",
+   "galaxy-a53-5g/white/06.jpg",
+   "galaxy-a53-5g/white/07.jpg"
+  ],
+  "_group": "galaxy-a53-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-a17": {
+  "Black": [
+   "galaxy-a17/black/00_hero.jpg",
+   "galaxy-a17/black/01.jpg",
+   "galaxy-a17/black/04.jpg",
+   "galaxy-a17/black/02.jpg",
+   "galaxy-a17/black/03.jpg",
+   "galaxy-a17/black/05.jpg",
+   "galaxy-a17/black/06.jpg"
+  ],
+  "Grey": [
+   "galaxy-a17/grey/00_hero.jpg",
+   "galaxy-a17/grey/01.jpg",
+   "galaxy-a17/grey/04.jpg",
+   "galaxy-a17/grey/02.jpg",
+   "galaxy-a17/grey/03.jpg",
+   "galaxy-a17/grey/05.jpg",
+   "galaxy-a17/grey/06.jpg"
+  ],
+  "Light Blue": [
+   "galaxy-a17/light-blue/00_hero.jpg",
+   "galaxy-a17/light-blue/01.jpg",
+   "galaxy-a17/light-blue/04.jpg",
+   "galaxy-a17/light-blue/02.jpg",
+   "galaxy-a17/light-blue/03.jpg",
+   "galaxy-a17/light-blue/05.jpg",
+   "galaxy-a17/light-blue/06.jpg"
+  ],
+  "_group": "galaxy-a17/group/00_all_colours.jpg"
+ },
+ "galaxy-a17-5g": {
+  "Black": [
+   "galaxy-a17-5g/black/00_hero.jpg",
+   "galaxy-a17-5g/black/01.jpg",
+   "galaxy-a17-5g/black/04.jpg",
+   "galaxy-a17-5g/black/02.jpg",
+   "galaxy-a17-5g/black/03.jpg",
+   "galaxy-a17-5g/black/05.jpg",
+   "galaxy-a17-5g/black/06.jpg"
+  ],
+  "Blue": [
+   "galaxy-a17-5g/blue/00_hero.jpg",
+   "galaxy-a17-5g/blue/01.jpg",
+   "galaxy-a17-5g/blue/04.jpg",
+   "galaxy-a17-5g/blue/02.jpg",
+   "galaxy-a17-5g/blue/03.jpg",
+   "galaxy-a17-5g/blue/05.jpg",
+   "galaxy-a17-5g/blue/06.jpg"
+  ],
+  "Grey": [
+   "galaxy-a17-5g/grey/00_hero.jpg",
+   "galaxy-a17-5g/grey/01.jpg",
+   "galaxy-a17-5g/grey/04.jpg",
+   "galaxy-a17-5g/grey/02.jpg",
+   "galaxy-a17-5g/grey/03.jpg",
+   "galaxy-a17-5g/grey/05.jpg",
+   "galaxy-a17-5g/grey/06.jpg"
+  ],
+  "_group": "galaxy-a17-5g/group/00_all_colours.jpg"
+ }
+}

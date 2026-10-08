@@ -1,0 +1,154 @@
+{
+ "pixel-7": {
+  "Obsidian": [
+   "pixel-7/obsidian/00_hero.jpg",
+   "pixel-7/obsidian/01.jpg",
+   "pixel-7/obsidian/02.jpg",
+   "pixel-7/obsidian/03.jpg",
+   "pixel-7/obsidian/04.jpg"
+  ],
+  "Snow": [
+   "pixel-7/snow/00_hero.jpg",
+   "pixel-7/snow/01.jpg",
+   "pixel-7/snow/02.jpg",
+   "pixel-7/snow/03.jpg",
+   "pixel-7/snow/04.jpg"
+  ],
+  "Lemongrass": [
+   "pixel-7/lemongrass/00_hero.jpg",
+   "pixel-7/lemongrass/01.jpg",
+   "pixel-7/lemongrass/02.jpg",
+   "pixel-7/lemongrass/03.jpg",
+   "pixel-7/lemongrass/04.jpg"
+  ],
+  "_group": "pixel-7/group/00_all_colours.jpg"
+ },
+ "pixel-7a": {
+  "Charcoal": [
+   "pixel-7a/charcoal/00_hero.jpg",
+   "pixel-7a/charcoal/01.jpg",
+   "pixel-7a/charcoal/02.jpg"
+  ],
+  "Snow": [
+   "pixel-7a/snow/00_hero.jpg",
+   "pixel-7a/snow/01.jpg",
+   "pixel-7a/snow/02.jpg"
+  ],
+  "Sea": [
+   "pixel-7a/sea/00_hero.jpg",
+   "pixel-7a/sea/01.jpg",
+   "pixel-7a/sea/02.jpg"
+  ],
+  "Coral": [
+   "pixel-7a/coral/00_hero.jpg",
+   "pixel-7a/coral/01.jpg",
+   "pixel-7a/coral/02.jpg"
+  ],
+  "_group": "pixel-7a/group/00_all_colours.jpg"
+ },
+ "pixel-7-pro": {
+  "Obsidian": [
+   "pixel-7-pro/obsidian/00_hero.jpg",
+   "pixel-7-pro/obsidian/01.jpg",
+   "pixel-7-pro/obsidian/02.jpg",
+   "pixel-7-pro/obsidian/03.jpg",
+   "pixel-7-pro/obsidian/04.jpg"
+  ],
+  "Snow": [
+   "pixel-7-pro/snow/00_hero.jpg",
+   "pixel-7-pro/snow/01.jpg",
+   "pixel-7-pro/snow/02.jpg",
+   "pixel-7-pro/snow/03.jpg",
+   "pixel-7-pro/snow/04.jpg"
+  ],
+  "Hazel": [
+   "pixel-7-pro/hazel/00_hero.jpg",
+   "pixel-7-pro/hazel/01.jpg",
+   "pixel-7-pro/hazel/02.jpg",
+   "pixel-7-pro/hazel/03.jpg",
+   "pixel-7-pro/hazel/04.jpg"
+  ],
+  "_group": "pixel-7-pro/group/00_all_colours.jpg"
+ },
+ "pixel-8": {
+  "Obsidian": [
+   "pixel-8/obsidian/00_hero.jpg",
+   "pixel-8/obsidian/01.jpg"
+  ],
+  "Hazel": [
+   "pixel-8/hazel/00_hero.jpg",
+   "pixel-8/hazel/01.jpg"
+  ],
+  "Rose": [
+   "pixel-8/rose/00_hero.jpg",
+   "pixel-8/rose/01.jpg"
+  ],
+  "_group": "pixel-8/group/00_all_colours.jpg"
+ },
+ "pixel-8a": {
+  "Obsidian": [
+   "pixel-8a/obsidian/00_hero.jpg",
+   "pixel-8a/obsidian/01.jpg"
+  ],
+  "Porcelain": [
+   "pixel-8a/porcelain/00_hero.jpg",
+   "pixel-8a/porcelain/01.jpg"
+  ],
+  "Bay": [
+   "pixel-8a/bay/00_hero.jpg",
+   "pixel-8a/bay/01.jpg"
+  ],
+  "Aloe": [
+   "pixel-8a/aloe/00_hero.jpg",
+   "pixel-8a/aloe/01.jpg"
+  ],
+  "_group": "pixel-8a/group/00_all_colours.jpg"
+ },
+ "pixel-8-pro": {
+  "Obsidian": [
+   "pixel-8-pro/obsidian/00_hero.jpg",
+   "pixel-8-pro/obsidian/01.jpg",
+   "pixel-8-pro/obsidian/02.jpg"
+  ],
+  "Porcelain": [
+   "pixel-8-pro/porcelain/00_hero.jpg",
+   "pixel-8-pro/porcelain/01.jpg"
+  ],
+  "Bay": [
+   "pixel-8-pro/bay/00_hero.jpg",
+   "pixel-8-pro/bay/01.jpg"
+  ],
+  "_group": "pixel-8-pro/group/00_all_colours.jpg"
+ },
+ "pixel-9a": {
+  "Obsidian": [
+   "pixel-9a/obsidian/00_hero.jpg",
+   "pixel-9a/obsidian/01.jpg",
+   "pixel-9a/obsidian/02.jpg",
+   "pixel-9a/obsidian/03.jpg",
+   "pixel-9a/obsidian/04.jpg"
+  ],
+  "Porcelain": [
+   "pixel-9a/porcelain/00_hero.jpg",
+   "pixel-9a/porcelain/01.jpg",
+   "pixel-9a/porcelain/02.jpg",
+   "pixel-9a/porcelain/03.jpg",
+   "pixel-9a/porcelain/04.jpg"
+  ],
+  "Iris": [
+   "pixel-9a/iris/00_hero.jpg",
+   "pixel-9a/iris/01.jpg",
+   "pixel-9a/iris/02.jpg",
+   "pixel-9a/iris/03.jpg",
+   "pixel-9a/iris/04.jpg"
+  ],
+  "Peony": [
+   "pixel-9a/peony/00_hero.jpg",
+   "pixel-9a/peony/01.jpg",
+   "pixel-9a/peony/02.jpg",
+   "pixel-9a/peony/03.jpg",
+   "pixel-9a/peony/04.jpg"
+  ],
+  "_group": "pixel-9a/group/00_all_colours.jpg"
+ }
+}

@@ -1,0 +1,255 @@
+{
+ "iphone-xr": {
+  "Black": [
+   "iphone-xr/black/00_hero.jpg",
+   "iphone-xr/black/01.jpg",
+   "iphone-xr/black/02.jpg",
+   "iphone-xr/black/03.jpg"
+  ],
+  "White": [
+   "iphone-xr/white/00_hero.jpg",
+   "iphone-xr/white/01.jpg",
+   "iphone-xr/white/02.jpg",
+   "iphone-xr/white/03.jpg"
+  ],
+  "Blue": [
+   "iphone-xr/blue/00_hero.jpg",
+   "iphone-xr/blue/01.jpg",
+   "iphone-xr/blue/02.jpg",
+   "iphone-xr/blue/03.jpg"
+  ],
+  "Yellow": [
+   "iphone-xr/yellow/00_hero.jpg",
+   "iphone-xr/yellow/01.jpg",
+   "iphone-xr/yellow/02.jpg",
+   "iphone-xr/yellow/03.jpg"
+  ],
+  "Coral": [
+   "iphone-xr/coral/00_hero.jpg",
+   "iphone-xr/coral/01.jpg",
+   "iphone-xr/coral/02.jpg",
+   "iphone-xr/coral/03.jpg"
+  ],
+  "(PRODUCT)RED": [
+   "iphone-xr/product-red/00_hero.jpg",
+   "iphone-xr/product-red/01.jpg",
+   "iphone-xr/product-red/02.jpg",
+   "iphone-xr/product-red/03.jpg"
+  ],
+  "_group": "iphone-xr/group/00_all_colours.jpg"
+ },
+ "iphone-11": {
+  "Black": [
+   "iphone-11/black/00_hero.jpg",
+   "iphone-11/black/01.jpg",
+   "iphone-11/black/02.jpg"
+  ],
+  "Green": [
+   "iphone-11/green/00_hero.jpg",
+   "iphone-11/green/01.jpg",
+   "iphone-11/green/02.jpg"
+  ],
+  "Yellow": [
+   "iphone-11/yellow/00_hero.jpg",
+   "iphone-11/yellow/01.jpg",
+   "iphone-11/yellow/02.jpg"
+  ],
+  "Purple": [
+   "iphone-11/purple/00_hero.jpg",
+   "iphone-11/purple/01.jpg",
+   "iphone-11/purple/02.jpg"
+  ],
+  "White": [
+   "iphone-11/white/00_hero.jpg",
+   "iphone-11/white/01.jpg",
+   "iphone-11/white/02.jpg"
+  ],
+  "(PRODUCT)RED": [
+   "iphone-11/product-red/00_hero.jpg",
+   "iphone-11/product-red/01.jpg",
+   "iphone-11/product-red/02.jpg"
+  ],
+  "_group": "iphone-11/group/00_all_colours.jpg"
+ },
+ "iphone-12-mini": {
+  "Black": [
+   "iphone-12-mini/black/00_hero.jpg",
+   "iphone-12-mini/black/01.jpg",
+   "iphone-12-mini/black/02.jpg",
+   "iphone-12-mini/black/03.jpg"
+  ],
+  "White": [
+   "iphone-12-mini/white/00_hero.jpg",
+   "iphone-12-mini/white/01.jpg",
+   "iphone-12-mini/white/02.jpg",
+   "iphone-12-mini/white/03.jpg"
+  ],
+  "Green": [
+   "iphone-12-mini/green/00_hero.jpg",
+   "iphone-12-mini/green/01.jpg",
+   "iphone-12-mini/green/02.jpg",
+   "iphone-12-mini/green/03.jpg"
+  ],
+  "Blue": [
+   "iphone-12-mini/blue/00_hero.jpg",
+   "iphone-12-mini/blue/01.jpg",
+   "iphone-12-mini/blue/02.jpg",
+   "iphone-12-mini/blue/03.jpg",
+   "iphone-12-mini/blue/04.jpg"
+  ],
+  "Purple": [
+   "iphone-12-mini/purple/00_hero.jpg",
+   "iphone-12-mini/purple/01.jpg",
+   "iphone-12-mini/purple/02.jpg",
+   "iphone-12-mini/purple/03.jpg"
+  ],
+  "(PRODUCT)RED": [
+   "iphone-12-mini/product-red/00_hero.jpg",
+   "iphone-12-mini/product-red/01.jpg",
+   "iphone-12-mini/product-red/02.jpg",
+   "iphone-12-mini/product-red/03.jpg"
+  ],
+  "_group": "iphone-12-mini/group/00_all_colours.jpg"
+ },
+ "iphone-12": {
+  "Black": [
+   "iphone-12/black/00_hero.jpg",
+   "iphone-12/black/01.jpg",
+   "iphone-12/black/02.jpg",
+   "iphone-12/black/03.jpg"
+  ],
+  "White": [
+   "iphone-12/white/00_hero.jpg",
+   "iphone-12/white/01.jpg",
+   "iphone-12/white/02.jpg",
+   "iphone-12/white/03.jpg"
+  ],
+  "Green": [
+   "iphone-12/green/00_hero.jpg",
+   "iphone-12/green/01.jpg",
+   "iphone-12/green/02.jpg",
+   "iphone-12/green/03.jpg"
+  ],
+  "Blue": [
+   "iphone-12/blue/00_hero.jpg",
+   "iphone-12/blue/01.jpg",
+   "iphone-12/blue/02.jpg",
+   "iphone-12/blue/03.jpg",
+   "iphone-12/blue/04.jpg"
+  ],
+  "Purple": [
+   "iphone-12/purple/00_hero.jpg",
+   "iphone-12/purple/01.jpg",
+   "iphone-12/purple/02.jpg",
+   "iphone-12/purple/03.jpg"
+  ],
+  "(PRODUCT)RED": [
+   "iphone-12/product-red/00_hero.jpg",
+   "iphone-12/product-red/01.jpg",
+   "iphone-12/product-red/02.jpg",
+   "iphone-12/product-red/03.jpg"
+  ],
+  "_group": "iphone-12/group/00_all_colours.jpg"
+ },
+ "iphone-13-mini": {
+  "Midnight": [
+   "iphone-13-mini/midnight/00_hero.jpg",
+   "iphone-13-mini/midnight/01.jpg",
+   "iphone-13-mini/midnight/02.jpg"
+  ],
+  "Starlight": [
+   "iphone-13-mini/starlight/00_hero.jpg",
+   "iphone-13-mini/starlight/01.jpg",
+   "iphone-13-mini/starlight/02.jpg"
+  ],
+  "Blue": [
+   "iphone-13-mini/blue/00_hero.jpg",
+   "iphone-13-mini/blue/01.jpg",
+   "iphone-13-mini/blue/02.jpg"
+  ],
+  "Pink": [
+   "iphone-13-mini/pink/00_hero.jpg",
+   "iphone-13-mini/pink/01.jpg",
+   "iphone-13-mini/pink/02.jpg",
+   "iphone-13-mini/pink/03.jpg"
+  ],
+  "Green": [
+   "iphone-13-mini/green/00_hero.jpg",
+   "iphone-13-mini/green/01.jpg",
+   "iphone-13-mini/green/02.jpg"
+  ],
+  "(PRODUCT)RED": [
+   "iphone-13-mini/product-red/00_hero.jpg",
+   "iphone-13-mini/product-red/01.jpg",
+   "iphone-13-mini/product-red/02.jpg"
+  ],
+  "_group": "iphone-13-mini/group/00_all_colours.jpg"
+ },
+ "iphone-13": {
+  "Midnight": [
+   "iphone-13/midnight/00_hero.jpg",
+   "iphone-13/midnight/01.jpg",
+   "iphone-13/midnight/02.jpg"
+  ],
+  "Starlight": [
+   "iphone-13/starlight/00_hero.jpg",
+   "iphone-13/starlight/01.jpg",
+   "iphone-13/starlight/02.jpg"
+  ],
+  "Blue": [
+   "iphone-13/blue/00_hero.jpg",
+   "iphone-13/blue/01.jpg",
+   "iphone-13/blue/02.jpg"
+  ],
+  "Pink": [
+   "iphone-13/pink/00_hero.jpg",
+   "iphone-13/pink/01.jpg",
+   "iphone-13/pink/02.jpg",
+   "iphone-13/pink/03.jpg"
+  ],
+  "Green": [
+   "iphone-13/green/00_hero.jpg",
+   "iphone-13/green/01.jpg",
+   "iphone-13/green/02.jpg"
+  ],
+  "(PRODUCT)RED": [
+   "iphone-13/product-red/00_hero.jpg",
+   "iphone-13/product-red/01.jpg",
+   "iphone-13/product-red/02.jpg"
+  ],
+  "_group": "iphone-13/group/00_all_colours.jpg"
+ },
+ "iphone-se-2020": {
+  "Black": [
+   "iphone-se-2020/black/00_hero.jpg",
+   "iphone-se-2020/black/01.jpg"
+  ],
+  "White": [
+   "iphone-se-2020/white/00_hero.jpg",
+   "iphone-se-2020/white/01.jpg"
+  ],
+  "(PRODUCT)RED": [
+   "iphone-se-2020/product-red/00_hero.jpg",
+   "iphone-se-2020/product-red/01.jpg"
+  ],
+  "_group": "iphone-se-2020/group/00_all_colours.jpg"
+ },
+ "iphone-se-2022": {
+  "Midnight": [
+   "iphone-se-2022/midnight/00_hero.jpg",
+   "iphone-se-2022/midnight/01.jpg",
+   "iphone-se-2022/midnight/02.jpg"
+  ],
+  "Starlight": [
+   "iphone-se-2022/starlight/00_hero.jpg",
+   "iphone-se-2022/starlight/01.jpg",
+   "iphone-se-2022/starlight/02.jpg"
+  ],
+  "(PRODUCT)RED": [
+   "iphone-se-2022/product-red/00_hero.jpg",
+   "iphone-se-2022/product-red/01.jpg",
+   "iphone-se-2022/product-red/02.jpg"
+  ],
+  "_group": "iphone-se-2022/group/00_all_colours.jpg"
+ }
+}

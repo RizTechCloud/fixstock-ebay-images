@@ -1,0 +1,358 @@
+{
+ "galaxy-s20-5g": {
+  "Cosmic Grey": [
+   "galaxy-s20-5g/cosmic-grey/00_hero.jpg",
+   "galaxy-s20-5g/cosmic-grey/01.jpg",
+   "galaxy-s20-5g/cosmic-grey/02.jpg",
+   "galaxy-s20-5g/cosmic-grey/03.jpg"
+  ],
+  "Cloud White": [
+   "galaxy-s20-5g/cloud-white/00_hero.jpg",
+   "galaxy-s20-5g/cloud-white/01.jpg",
+   "galaxy-s20-5g/cloud-white/02.jpg",
+   "galaxy-s20-5g/cloud-white/03.jpg",
+   "galaxy-s20-5g/cloud-white/04.jpg",
+   "galaxy-s20-5g/cloud-white/05.jpg",
+   "galaxy-s20-5g/cloud-white/06.jpg"
+  ],
+  "Cloud Pink": [
+   "galaxy-s20-5g/cloud-pink/00_hero.jpg",
+   "galaxy-s20-5g/cloud-pink/01.jpg",
+   "galaxy-s20-5g/cloud-pink/02.jpg",
+   "galaxy-s20-5g/cloud-pink/03.jpg",
+   "galaxy-s20-5g/cloud-pink/04.jpg",
+   "galaxy-s20-5g/cloud-pink/05.jpg"
+  ],
+  "_group": "galaxy-s20-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-s20-plus-5g": {
+  "Cosmic Black": [
+   "galaxy-s20-plus-5g/cosmic-black/00_hero.jpg",
+   "galaxy-s20-plus-5g/cosmic-black/01.jpg",
+   "galaxy-s20-plus-5g/cosmic-black/02.jpg",
+   "galaxy-s20-plus-5g/cosmic-black/03.jpg",
+   "galaxy-s20-plus-5g/cosmic-black/04.jpg",
+   "galaxy-s20-plus-5g/cosmic-black/05.jpg",
+   "galaxy-s20-plus-5g/cosmic-black/06.jpg"
+  ],
+  "Cosmic Grey": [
+   "galaxy-s20-plus-5g/cosmic-grey/00_hero.jpg",
+   "galaxy-s20-plus-5g/cosmic-grey/01.jpg",
+   "galaxy-s20-plus-5g/cosmic-grey/02.jpg",
+   "galaxy-s20-plus-5g/cosmic-grey/03.jpg",
+   "galaxy-s20-plus-5g/cosmic-grey/04.jpg",
+   "galaxy-s20-plus-5g/cosmic-grey/05.jpg",
+   "galaxy-s20-plus-5g/cosmic-grey/06.jpg"
+  ],
+  "Cloud Blue": [
+   "galaxy-s20-plus-5g/cloud-blue/00_hero.jpg",
+   "galaxy-s20-plus-5g/cloud-blue/01.jpg",
+   "galaxy-s20-plus-5g/cloud-blue/02.jpg",
+   "galaxy-s20-plus-5g/cloud-blue/03.jpg",
+   "galaxy-s20-plus-5g/cloud-blue/04.jpg",
+   "galaxy-s20-plus-5g/cloud-blue/05.jpg",
+   "galaxy-s20-plus-5g/cloud-blue/06.jpg"
+  ],
+  "Cloud White": [
+   "galaxy-s20-plus-5g/cloud-white/00_hero.jpg",
+   "galaxy-s20-plus-5g/cloud-white/01.jpg",
+   "galaxy-s20-plus-5g/cloud-white/02.jpg",
+   "galaxy-s20-plus-5g/cloud-white/03.jpg",
+   "galaxy-s20-plus-5g/cloud-white/04.jpg",
+   "galaxy-s20-plus-5g/cloud-white/05.jpg",
+   "galaxy-s20-plus-5g/cloud-white/06.jpg"
+  ],
+  "Aura Blue": [
+   "galaxy-s20-plus-5g/aura-blue/00_hero.jpg",
+   "galaxy-s20-plus-5g/aura-blue/01.jpg",
+   "galaxy-s20-plus-5g/aura-blue/02.jpg"
+  ],
+  "_group": "galaxy-s20-plus-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-s20-ultra-5g": {
+  "Cosmic Black": [
+   "galaxy-s20-ultra-5g/cosmic-black/00_hero.jpg",
+   "galaxy-s20-ultra-5g/cosmic-black/01.jpg",
+   "galaxy-s20-ultra-5g/cosmic-black/02.jpg",
+   "galaxy-s20-ultra-5g/cosmic-black/03.jpg",
+   "galaxy-s20-ultra-5g/cosmic-black/04.jpg",
+   "galaxy-s20-ultra-5g/cosmic-black/05.jpg",
+   "galaxy-s20-ultra-5g/cosmic-black/06.jpg"
+  ],
+  "Cosmic Grey": [
+   "galaxy-s20-ultra-5g/cosmic-grey/00_hero.jpg",
+   "galaxy-s20-ultra-5g/cosmic-grey/01.jpg",
+   "galaxy-s20-ultra-5g/cosmic-grey/02.jpg",
+   "galaxy-s20-ultra-5g/cosmic-grey/03.jpg",
+   "galaxy-s20-ultra-5g/cosmic-grey/04.jpg",
+   "galaxy-s20-ultra-5g/cosmic-grey/05.jpg",
+   "galaxy-s20-ultra-5g/cosmic-grey/06.jpg"
+  ],
+  "Cloud White": [
+   "galaxy-s20-ultra-5g/cloud-white/00_hero.jpg",
+   "galaxy-s20-ultra-5g/cloud-white/01.jpg",
+   "galaxy-s20-ultra-5g/cloud-white/02.jpg"
+  ],
+  "_group": "galaxy-s20-ultra-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-s20-fe-5g": {
+  "Cloud Navy": [
+   "galaxy-s20-fe-5g/cloud-navy/00_hero.jpg",
+   "galaxy-s20-fe-5g/cloud-navy/01.jpg",
+   "galaxy-s20-fe-5g/cloud-navy/02.jpg",
+   "galaxy-s20-fe-5g/cloud-navy/03.jpg",
+   "galaxy-s20-fe-5g/cloud-navy/04.jpg",
+   "galaxy-s20-fe-5g/cloud-navy/05.jpg",
+   "galaxy-s20-fe-5g/cloud-navy/06.jpg"
+  ],
+  "Cloud Lavender": [
+   "galaxy-s20-fe-5g/cloud-lavender/00_hero.jpg",
+   "galaxy-s20-fe-5g/cloud-lavender/01.jpg",
+   "galaxy-s20-fe-5g/cloud-lavender/02.jpg",
+   "galaxy-s20-fe-5g/cloud-lavender/03.jpg",
+   "galaxy-s20-fe-5g/cloud-lavender/04.jpg",
+   "galaxy-s20-fe-5g/cloud-lavender/05.jpg",
+   "galaxy-s20-fe-5g/cloud-lavender/06.jpg"
+  ],
+  "Cloud White": [
+   "galaxy-s20-fe-5g/cloud-white/00_hero.jpg",
+   "galaxy-s20-fe-5g/cloud-white/01.jpg",
+   "galaxy-s20-fe-5g/cloud-white/02.jpg",
+   "galaxy-s20-fe-5g/cloud-white/03.jpg",
+   "galaxy-s20-fe-5g/cloud-white/04.jpg",
+   "galaxy-s20-fe-5g/cloud-white/05.jpg",
+   "galaxy-s20-fe-5g/cloud-white/06.jpg"
+  ],
+  "Cloud Orange": [
+   "galaxy-s20-fe-5g/cloud-orange/00_hero.jpg",
+   "galaxy-s20-fe-5g/cloud-orange/01.jpg",
+   "galaxy-s20-fe-5g/cloud-orange/02.jpg"
+  ],
+  "_group": "galaxy-s20-fe-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-s21-5g": {
+  "Phantom Gray": [
+   "galaxy-s21-5g/phantom-gray/00_hero.jpg",
+   "galaxy-s21-5g/phantom-gray/01.jpg",
+   "galaxy-s21-5g/phantom-gray/02.jpg",
+   "galaxy-s21-5g/phantom-gray/03.jpg",
+   "galaxy-s21-5g/phantom-gray/04.jpg",
+   "galaxy-s21-5g/phantom-gray/05.jpg",
+   "galaxy-s21-5g/phantom-gray/06.jpg",
+   "galaxy-s21-5g/phantom-gray/07.jpg",
+   "galaxy-s21-5g/phantom-gray/08.jpg",
+   "galaxy-s21-5g/phantom-gray/09.jpg"
+  ],
+  "Phantom White": [
+   "galaxy-s21-5g/phantom-white/00_hero.jpg",
+   "galaxy-s21-5g/phantom-white/01.jpg",
+   "galaxy-s21-5g/phantom-white/02.jpg",
+   "galaxy-s21-5g/phantom-white/03.jpg",
+   "galaxy-s21-5g/phantom-white/04.jpg",
+   "galaxy-s21-5g/phantom-white/05.jpg",
+   "galaxy-s21-5g/phantom-white/06.jpg",
+   "galaxy-s21-5g/phantom-white/07.jpg",
+   "galaxy-s21-5g/phantom-white/08.jpg",
+   "galaxy-s21-5g/phantom-white/09.jpg"
+  ],
+  "Phantom Violet": [
+   "galaxy-s21-5g/phantom-violet/00_hero.jpg",
+   "galaxy-s21-5g/phantom-violet/01.jpg",
+   "galaxy-s21-5g/phantom-violet/02.jpg",
+   "galaxy-s21-5g/phantom-violet/03.jpg",
+   "galaxy-s21-5g/phantom-violet/04.jpg",
+   "galaxy-s21-5g/phantom-violet/05.jpg",
+   "galaxy-s21-5g/phantom-violet/06.jpg",
+   "galaxy-s21-5g/phantom-violet/07.jpg",
+   "galaxy-s21-5g/phantom-violet/08.jpg",
+   "galaxy-s21-5g/phantom-violet/09.jpg"
+  ],
+  "Phantom Pink": [
+   "galaxy-s21-5g/phantom-pink/00_hero.jpg",
+   "galaxy-s21-5g/phantom-pink/01.jpg",
+   "galaxy-s21-5g/phantom-pink/02.jpg",
+   "galaxy-s21-5g/phantom-pink/03.jpg",
+   "galaxy-s21-5g/phantom-pink/04.jpg",
+   "galaxy-s21-5g/phantom-pink/05.jpg",
+   "galaxy-s21-5g/phantom-pink/06.jpg",
+   "galaxy-s21-5g/phantom-pink/07.jpg",
+   "galaxy-s21-5g/phantom-pink/08.jpg",
+   "galaxy-s21-5g/phantom-pink/09.jpg"
+  ],
+  "_group": "galaxy-s21-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-s21-plus-5g": {
+  "Phantom Black": [
+   "galaxy-s21-plus-5g/phantom-black/00_hero.jpg",
+   "galaxy-s21-plus-5g/phantom-black/01.jpg",
+   "galaxy-s21-plus-5g/phantom-black/02.jpg",
+   "galaxy-s21-plus-5g/phantom-black/03.jpg",
+   "galaxy-s21-plus-5g/phantom-black/04.jpg",
+   "galaxy-s21-plus-5g/phantom-black/05.jpg",
+   "galaxy-s21-plus-5g/phantom-black/06.jpg",
+   "galaxy-s21-plus-5g/phantom-black/07.jpg",
+   "galaxy-s21-plus-5g/phantom-black/08.jpg",
+   "galaxy-s21-plus-5g/phantom-black/09.jpg"
+  ],
+  "Phantom Silver": [
+   "galaxy-s21-plus-5g/phantom-silver/00_hero.jpg",
+   "galaxy-s21-plus-5g/phantom-silver/01.jpg",
+   "galaxy-s21-plus-5g/phantom-silver/02.jpg",
+   "galaxy-s21-plus-5g/phantom-silver/03.jpg",
+   "galaxy-s21-plus-5g/phantom-silver/04.jpg",
+   "galaxy-s21-plus-5g/phantom-silver/05.jpg",
+   "galaxy-s21-plus-5g/phantom-silver/06.jpg",
+   "galaxy-s21-plus-5g/phantom-silver/07.jpg",
+   "galaxy-s21-plus-5g/phantom-silver/08.jpg",
+   "galaxy-s21-plus-5g/phantom-silver/09.jpg"
+  ],
+  "Phantom Violet": [
+   "galaxy-s21-plus-5g/phantom-violet/00_hero.jpg",
+   "galaxy-s21-plus-5g/phantom-violet/01.jpg",
+   "galaxy-s21-plus-5g/phantom-violet/02.jpg",
+   "galaxy-s21-plus-5g/phantom-violet/03.jpg",
+   "galaxy-s21-plus-5g/phantom-violet/04.jpg",
+   "galaxy-s21-plus-5g/phantom-violet/05.jpg",
+   "galaxy-s21-plus-5g/phantom-violet/06.jpg",
+   "galaxy-s21-plus-5g/phantom-violet/07.jpg",
+   "galaxy-s21-plus-5g/phantom-violet/08.jpg",
+   "galaxy-s21-plus-5g/phantom-violet/09.jpg"
+  ],
+  "Phantom Gold": [
+   "galaxy-s21-plus-5g/phantom-gold/00_hero.jpg",
+   "galaxy-s21-plus-5g/phantom-gold/01.jpg",
+   "galaxy-s21-plus-5g/phantom-gold/02.jpg",
+   "galaxy-s21-plus-5g/phantom-gold/03.jpg",
+   "galaxy-s21-plus-5g/phantom-gold/04.jpg",
+   "galaxy-s21-plus-5g/phantom-gold/05.jpg",
+   "galaxy-s21-plus-5g/phantom-gold/06.jpg",
+   "galaxy-s21-plus-5g/phantom-gold/07.jpg",
+   "galaxy-s21-plus-5g/phantom-gold/08.jpg",
+   "galaxy-s21-plus-5g/phantom-gold/09.jpg"
+  ],
+  "Phantom Red": [
+   "galaxy-s21-plus-5g/phantom-red/00_hero.jpg",
+   "galaxy-s21-plus-5g/phantom-red/01.jpg",
+   "galaxy-s21-plus-5g/phantom-red/02.jpg",
+   "galaxy-s21-plus-5g/phantom-red/03.jpg",
+   "galaxy-s21-plus-5g/phantom-red/04.jpg",
+   "galaxy-s21-plus-5g/phantom-red/05.jpg",
+   "galaxy-s21-plus-5g/phantom-red/06.jpg",
+   "galaxy-s21-plus-5g/phantom-red/07.jpg",
+   "galaxy-s21-plus-5g/phantom-red/08.jpg",
+   "galaxy-s21-plus-5g/phantom-red/09.jpg"
+  ],
+  "_group": "galaxy-s21-plus-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-s21-ultra-5g": {
+  "Phantom Black": [
+   "galaxy-s21-ultra-5g/phantom-black/00_hero.jpg",
+   "galaxy-s21-ultra-5g/phantom-black/01.jpg",
+   "galaxy-s21-ultra-5g/phantom-black/02.jpg",
+   "galaxy-s21-ultra-5g/phantom-black/03.jpg",
+   "galaxy-s21-ultra-5g/phantom-black/04.jpg",
+   "galaxy-s21-ultra-5g/phantom-black/05.jpg",
+   "galaxy-s21-ultra-5g/phantom-black/06.jpg",
+   "galaxy-s21-ultra-5g/phantom-black/07.jpg",
+   "galaxy-s21-ultra-5g/phantom-black/08.jpg",
+   "galaxy-s21-ultra-5g/phantom-black/09.jpg"
+  ],
+  "Phantom Silver": [
+   "galaxy-s21-ultra-5g/phantom-silver/00_hero.jpg",
+   "galaxy-s21-ultra-5g/phantom-silver/01.jpg",
+   "galaxy-s21-ultra-5g/phantom-silver/02.jpg",
+   "galaxy-s21-ultra-5g/phantom-silver/03.jpg",
+   "galaxy-s21-ultra-5g/phantom-silver/04.jpg",
+   "galaxy-s21-ultra-5g/phantom-silver/05.jpg",
+   "galaxy-s21-ultra-5g/phantom-silver/06.jpg",
+   "galaxy-s21-ultra-5g/phantom-silver/07.jpg",
+   "galaxy-s21-ultra-5g/phantom-silver/08.jpg",
+   "galaxy-s21-ultra-5g/phantom-silver/09.jpg"
+  ],
+  "Phantom Titanium": [
+   "galaxy-s21-ultra-5g/phantom-titanium/00_hero.jpg",
+   "galaxy-s21-ultra-5g/phantom-titanium/01.jpg",
+   "galaxy-s21-ultra-5g/phantom-titanium/02.jpg",
+   "galaxy-s21-ultra-5g/phantom-titanium/03.jpg",
+   "galaxy-s21-ultra-5g/phantom-titanium/04.jpg",
+   "galaxy-s21-ultra-5g/phantom-titanium/05.jpg",
+   "galaxy-s21-ultra-5g/phantom-titanium/06.jpg",
+   "galaxy-s21-ultra-5g/phantom-titanium/07.jpg",
+   "galaxy-s21-ultra-5g/phantom-titanium/08.jpg",
+   "galaxy-s21-ultra-5g/phantom-titanium/09.jpg"
+  ],
+  "Phantom Navy": [
+   "galaxy-s21-ultra-5g/phantom-navy/00_hero.jpg",
+   "galaxy-s21-ultra-5g/phantom-navy/01.jpg",
+   "galaxy-s21-ultra-5g/phantom-navy/02.jpg",
+   "galaxy-s21-ultra-5g/phantom-navy/03.jpg",
+   "galaxy-s21-ultra-5g/phantom-navy/04.jpg",
+   "galaxy-s21-ultra-5g/phantom-navy/05.jpg",
+   "galaxy-s21-ultra-5g/phantom-navy/06.jpg",
+   "galaxy-s21-ultra-5g/phantom-navy/07.jpg",
+   "galaxy-s21-ultra-5g/phantom-navy/08.jpg",
+   "galaxy-s21-ultra-5g/phantom-navy/09.jpg"
+  ],
+  "Phantom Brown": [
+   "galaxy-s21-ultra-5g/phantom-brown/00_hero.jpg",
+   "galaxy-s21-ultra-5g/phantom-brown/01.jpg",
+   "galaxy-s21-ultra-5g/phantom-brown/02.jpg",
+   "galaxy-s21-ultra-5g/phantom-brown/03.jpg",
+   "galaxy-s21-ultra-5g/phantom-brown/04.jpg",
+   "galaxy-s21-ultra-5g/phantom-brown/05.jpg",
+   "galaxy-s21-ultra-5g/phantom-brown/06.jpg",
+   "galaxy-s21-ultra-5g/phantom-brown/07.jpg",
+   "galaxy-s21-ultra-5g/phantom-brown/08.jpg",
+   "galaxy-s21-ultra-5g/phantom-brown/09.jpg"
+  ],
+  "_group": "galaxy-s21-ultra-5g/group/00_all_colours.jpg"
+ },
+ "galaxy-s21-fe-5g": {
+  "Graphite": [
+   "galaxy-s21-fe-5g/graphite/00_hero.jpg",
+   "galaxy-s21-fe-5g/graphite/01.jpg",
+   "galaxy-s21-fe-5g/graphite/02.jpg",
+   "galaxy-s21-fe-5g/graphite/03.jpg",
+   "galaxy-s21-fe-5g/graphite/04.jpg",
+   "galaxy-s21-fe-5g/graphite/05.jpg",
+   "galaxy-s21-fe-5g/graphite/06.jpg"
+  ],
+  "White": [
+   "galaxy-s21-fe-5g/white/00_hero.jpg",
+   "galaxy-s21-fe-5g/white/01.jpg",
+   "galaxy-s21-fe-5g/white/02.jpg",
+   "galaxy-s21-fe-5g/white/03.jpg",
+   "galaxy-s21-fe-5g/white/04.jpg",
+   "galaxy-s21-fe-5g/white/05.jpg",
+   "galaxy-s21-fe-5g/white/06.jpg"
+  ],
+  "Lavender": [
+   "galaxy-s21-fe-5g/lavender/00_hero.jpg",
+   "galaxy-s21-fe-5g/lavender/01.jpg",
+   "galaxy-s21-fe-5g/lavender/02.jpg",
+   "galaxy-s21-fe-5g/lavender/03.jpg",
+   "galaxy-s21-fe-5g/lavender/04.jpg",
+   "galaxy-s21-fe-5g/lavender/05.jpg",
+   "galaxy-s21-fe-5g/lavender/06.jpg"
+  ],
+  "Olive": [
+   "galaxy-s21-fe-5g/olive/00_hero.jpg",
+   "galaxy-s21-fe-5g/olive/01.jpg",
+   "galaxy-s21-fe-5g/olive/02.jpg",
+   "galaxy-s21-fe-5g/olive/03.jpg",
+   "galaxy-s21-fe-5g/olive/04.jpg",
+   "galaxy-s21-fe-5g/olive/05.jpg",
+   "galaxy-s21-fe-5g/olive/06.jpg"
+  ],
+  "Navy": [
+   "galaxy-s21-fe-5g/navy/00_hero.jpg",
+   "galaxy-s21-fe-5g/navy/01.jpg",
+   "galaxy-s21-fe-5g/navy/02.jpg",
+   "galaxy-s21-fe-5g/navy/03.jpg",
+   "galaxy-s21-fe-5g/navy/04.jpg",
+   "galaxy-s21-fe-5g/navy/05.jpg",
+   "galaxy-s21-fe-5g/navy/06.jpg"
+  ],
+  "_group": "galaxy-s21-fe-5g/group/00_all_colours.jpg"
+ }
+}
