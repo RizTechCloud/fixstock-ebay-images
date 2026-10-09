@@ -1,0 +1,53 @@
+{
+ "pixel-8": {
+  "Obsidian": [
+   "pixel-8/obsidian/hq_00_hero.jpg"
+  ],
+  "Hazel": [
+   "pixel-8/hazel/hq_00_hero.jpg"
+  ],
+  "Rose": [
+   "pixel-8/rose/hq_00_hero.jpg"
+  ],
+  "_group": "pixel-8/group/hq_00_all_colours.jpg"
+ },
+ "pixel-8-pro": {
+  "Obsidian": [
+   "pixel-8-pro/obsidian/hq_00_hero.jpg"
+  ],
+  "Porcelain": [
+   "pixel-8-pro/porcelain/hq_00_hero.jpg"
+  ]
+ },
+ "pixel-7-pro": {
+  "Obsidian": [
+   "pixel-7-pro/obsidian/hq_00_hero.jpg"
+  ],
+  "Snow": [
+   "pixel-7-pro/snow/hq_00_hero.jpg"
+  ],
+  "Hazel": [
+   "pixel-7-pro/hazel/hq_00_hero.jpg"
+  ],
+  "_group": "pixel-7-pro/group/hq_00_all_colours.jpg"
+ },
+ "pixel-8a": {
+  "Porcelain": [
+   "pixel-8a/porcelain/hq_00_hero.jpg"
+  ],
+  "Bay": [
+   "pixel-8a/bay/hq_00_hero.jpg"
+  ],
+  "Aloe": [
+   "pixel-8a/aloe/hq_00_hero.jpg"
+  ]
+ },
+ "pixel-7a": {
+  "Charcoal": [
+   "pixel-7a/charcoal/hq_00_hero.jpg"
+  ],
+  "Sea": [
+   "pixel-7a/sea/hq_00_hero.jpg"
+  ]
+ }
+}

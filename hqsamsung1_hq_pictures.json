@@ -1,0 +1,341 @@
+{
+ "galaxy-s23-ultra": {
+  "Phantom Black": [
+   "galaxy-s23-ultra/phantom-black/hq_00_hero.jpg",
+   "galaxy-s23-ultra/phantom-black/hq_01.jpg",
+   "galaxy-s23-ultra/phantom-black/hq_02.jpg",
+   "galaxy-s23-ultra/phantom-black/hq_03.jpg",
+   "galaxy-s23-ultra/phantom-black/hq_04.jpg",
+   "galaxy-s23-ultra/phantom-black/hq_05.jpg",
+   "galaxy-s23-ultra/phantom-black/hq_06.jpg"
+  ],
+  "Cream": [
+   "galaxy-s23-ultra/cream/hq_00_hero.jpg",
+   "galaxy-s23-ultra/cream/hq_01.jpg",
+   "galaxy-s23-ultra/cream/hq_02.jpg",
+   "galaxy-s23-ultra/cream/hq_03.jpg",
+   "galaxy-s23-ultra/cream/hq_04.jpg",
+   "galaxy-s23-ultra/cream/hq_05.jpg",
+   "galaxy-s23-ultra/cream/hq_06.jpg"
+  ],
+  "Green": [
+   "galaxy-s23-ultra/green/hq_00_hero.jpg",
+   "galaxy-s23-ultra/green/hq_01.jpg",
+   "galaxy-s23-ultra/green/hq_02.jpg",
+   "galaxy-s23-ultra/green/hq_03.jpg",
+   "galaxy-s23-ultra/green/hq_04.jpg",
+   "galaxy-s23-ultra/green/hq_05.jpg",
+   "galaxy-s23-ultra/green/hq_06.jpg"
+  ],
+  "Lavender": [
+   "galaxy-s23-ultra/lavender/hq_00_hero.jpg",
+   "galaxy-s23-ultra/lavender/hq_01.jpg",
+   "galaxy-s23-ultra/lavender/hq_02.jpg",
+   "galaxy-s23-ultra/lavender/hq_03.jpg",
+   "galaxy-s23-ultra/lavender/hq_04.jpg",
+   "galaxy-s23-ultra/lavender/hq_05.jpg",
+   "galaxy-s23-ultra/lavender/hq_06.jpg"
+  ],
+  "Graphite": [
+   "galaxy-s23-ultra/graphite/hq_00_hero.jpg",
+   "galaxy-s23-ultra/graphite/hq_01.jpg",
+   "galaxy-s23-ultra/graphite/hq_02.jpg",
+   "galaxy-s23-ultra/graphite/hq_03.jpg",
+   "galaxy-s23-ultra/graphite/hq_04.jpg",
+   "galaxy-s23-ultra/graphite/hq_05.jpg",
+   "galaxy-s23-ultra/graphite/hq_06.jpg"
+  ],
+  "Lime": [
+   "galaxy-s23-ultra/lime/hq_00_hero.jpg",
+   "galaxy-s23-ultra/lime/hq_01.jpg",
+   "galaxy-s23-ultra/lime/hq_02.jpg",
+   "galaxy-s23-ultra/lime/hq_03.jpg",
+   "galaxy-s23-ultra/lime/hq_04.jpg",
+   "galaxy-s23-ultra/lime/hq_05.jpg",
+   "galaxy-s23-ultra/lime/hq_06.jpg"
+  ],
+  "Sky Blue": [
+   "galaxy-s23-ultra/sky-blue/hq_00_hero.jpg",
+   "galaxy-s23-ultra/sky-blue/hq_01.jpg",
+   "galaxy-s23-ultra/sky-blue/hq_02.jpg",
+   "galaxy-s23-ultra/sky-blue/hq_03.jpg",
+   "galaxy-s23-ultra/sky-blue/hq_04.jpg",
+   "galaxy-s23-ultra/sky-blue/hq_05.jpg",
+   "galaxy-s23-ultra/sky-blue/hq_06.jpg"
+  ],
+  "Red": [
+   "galaxy-s23-ultra/red/hq_00_hero.jpg",
+   "galaxy-s23-ultra/red/hq_01.jpg",
+   "galaxy-s23-ultra/red/hq_02.jpg",
+   "galaxy-s23-ultra/red/hq_03.jpg",
+   "galaxy-s23-ultra/red/hq_04.jpg",
+   "galaxy-s23-ultra/red/hq_05.jpg",
+   "galaxy-s23-ultra/red/hq_06.jpg"
+  ],
+  "_group": "galaxy-s23-ultra/group/hq_00_all_colours.jpg"
+ },
+ "galaxy-s23": {
+  "Phantom Black": [
+   "galaxy-s23/phantom-black/hq_00_hero.jpg",
+   "galaxy-s23/phantom-black/hq_01.jpg",
+   "galaxy-s23/phantom-black/hq_02.jpg",
+   "galaxy-s23/phantom-black/hq_03.jpg",
+   "galaxy-s23/phantom-black/hq_04.jpg",
+   "galaxy-s23/phantom-black/hq_05.jpg",
+   "galaxy-s23/phantom-black/hq_06.jpg"
+  ],
+  "Cream": [
+   "galaxy-s23/cream/hq_00_hero.jpg",
+   "galaxy-s23/cream/hq_01.jpg",
+   "galaxy-s23/cream/hq_02.jpg",
+   "galaxy-s23/cream/hq_03.jpg",
+   "galaxy-s23/cream/hq_04.jpg",
+   "galaxy-s23/cream/hq_05.jpg",
+   "galaxy-s23/cream/hq_06.jpg"
+  ],
+  "Green": [
+   "galaxy-s23/green/hq_00_hero.jpg",
+   "galaxy-s23/green/hq_01.jpg",
+   "galaxy-s23/green/hq_02.jpg",
+   "galaxy-s23/green/hq_03.jpg",
+   "galaxy-s23/green/hq_04.jpg",
+   "galaxy-s23/green/hq_05.jpg",
+   "galaxy-s23/green/hq_06.jpg"
+  ],
+  "Lavender": [
+   "galaxy-s23/lavender/hq_00_hero.jpg",
+   "galaxy-s23/lavender/hq_01.jpg",
+   "galaxy-s23/lavender/hq_02.jpg",
+   "galaxy-s23/lavender/hq_03.jpg",
+   "galaxy-s23/lavender/hq_04.jpg",
+   "galaxy-s23/lavender/hq_05.jpg",
+   "galaxy-s23/lavender/hq_06.jpg"
+  ],
+  "Graphite": [
+   "galaxy-s23/graphite/hq_00_hero.jpg",
+   "galaxy-s23/graphite/hq_01.jpg",
+   "galaxy-s23/graphite/hq_02.jpg",
+   "galaxy-s23/graphite/hq_03.jpg",
+   "galaxy-s23/graphite/hq_04.jpg",
+   "galaxy-s23/graphite/hq_05.jpg",
+   "galaxy-s23/graphite/hq_06.jpg"
+  ],
+  "Lime": [
+   "galaxy-s23/lime/hq_00_hero.jpg",
+   "galaxy-s23/lime/hq_01.jpg",
+   "galaxy-s23/lime/hq_02.jpg",
+   "galaxy-s23/lime/hq_03.jpg",
+   "galaxy-s23/lime/hq_04.jpg",
+   "galaxy-s23/lime/hq_05.jpg",
+   "galaxy-s23/lime/hq_06.jpg"
+  ],
+  "_group": "galaxy-s23/group/hq_00_all_colours.jpg"
+ },
+ "galaxy-s23-plus": {
+  "Phantom Black": [
+   "galaxy-s23-plus/phantom-black/hq_00_hero.jpg",
+   "galaxy-s23-plus/phantom-black/hq_01.jpg",
+   "galaxy-s23-plus/phantom-black/hq_02.jpg",
+   "galaxy-s23-plus/phantom-black/hq_03.jpg",
+   "galaxy-s23-plus/phantom-black/hq_04.jpg",
+   "galaxy-s23-plus/phantom-black/hq_05.jpg",
+   "galaxy-s23-plus/phantom-black/hq_06.jpg"
+  ],
+  "Cream": [
+   "galaxy-s23-plus/cream/hq_00_hero.jpg",
+   "galaxy-s23-plus/cream/hq_01.jpg",
+   "galaxy-s23-plus/cream/hq_02.jpg",
+   "galaxy-s23-plus/cream/hq_03.jpg",
+   "galaxy-s23-plus/cream/hq_04.jpg",
+   "galaxy-s23-plus/cream/hq_05.jpg",
+   "galaxy-s23-plus/cream/hq_06.jpg"
+  ],
+  "Green": [
+   "galaxy-s23-plus/green/hq_00_hero.jpg",
+   "galaxy-s23-plus/green/hq_01.jpg",
+   "galaxy-s23-plus/green/hq_02.jpg",
+   "galaxy-s23-plus/green/hq_03.jpg",
+   "galaxy-s23-plus/green/hq_04.jpg",
+   "galaxy-s23-plus/green/hq_05.jpg",
+   "galaxy-s23-plus/green/hq_06.jpg"
+  ],
+  "Lavender": [
+   "galaxy-s23-plus/lavender/hq_00_hero.jpg",
+   "galaxy-s23-plus/lavender/hq_01.jpg",
+   "galaxy-s23-plus/lavender/hq_02.jpg",
+   "galaxy-s23-plus/lavender/hq_03.jpg",
+   "galaxy-s23-plus/lavender/hq_04.jpg",
+   "galaxy-s23-plus/lavender/hq_05.jpg",
+   "galaxy-s23-plus/lavender/hq_06.jpg"
+  ],
+  "Graphite": [
+   "galaxy-s23-plus/graphite/hq_00_hero.jpg",
+   "galaxy-s23-plus/graphite/hq_01.jpg",
+   "galaxy-s23-plus/graphite/hq_02.jpg",
+   "galaxy-s23-plus/graphite/hq_03.jpg",
+   "galaxy-s23-plus/graphite/hq_04.jpg",
+   "galaxy-s23-plus/graphite/hq_05.jpg",
+   "galaxy-s23-plus/graphite/hq_06.jpg"
+  ],
+  "Lime": [
+   "galaxy-s23-plus/lime/hq_00_hero.jpg",
+   "galaxy-s23-plus/lime/hq_01.jpg",
+   "galaxy-s23-plus/lime/hq_02.jpg",
+   "galaxy-s23-plus/lime/hq_03.jpg",
+   "galaxy-s23-plus/lime/hq_04.jpg",
+   "galaxy-s23-plus/lime/hq_05.jpg",
+   "galaxy-s23-plus/lime/hq_06.jpg"
+  ],
+  "_group": "galaxy-s23-plus/group/hq_00_all_colours.jpg"
+ },
+ "galaxy-s23-fe": {
+  "Graphite": [
+   "galaxy-s23-fe/graphite/hq_00_hero.jpg",
+   "galaxy-s23-fe/graphite/hq_01.jpg",
+   "galaxy-s23-fe/graphite/hq_02.jpg",
+   "galaxy-s23-fe/graphite/hq_03.jpg",
+   "galaxy-s23-fe/graphite/hq_04.jpg",
+   "galaxy-s23-fe/graphite/hq_05.jpg",
+   "galaxy-s23-fe/graphite/hq_06.jpg"
+  ],
+  "Cream": [
+   "galaxy-s23-fe/cream/hq_00_hero.jpg",
+   "galaxy-s23-fe/cream/hq_01.jpg",
+   "galaxy-s23-fe/cream/hq_02.jpg",
+   "galaxy-s23-fe/cream/hq_03.jpg",
+   "galaxy-s23-fe/cream/hq_04.jpg",
+   "galaxy-s23-fe/cream/hq_05.jpg",
+   "galaxy-s23-fe/cream/hq_06.jpg"
+  ],
+  "Mint": [
+   "galaxy-s23-fe/mint/hq_00_hero.jpg",
+   "galaxy-s23-fe/mint/hq_01.jpg",
+   "galaxy-s23-fe/mint/hq_02.jpg",
+   "galaxy-s23-fe/mint/hq_03.jpg",
+   "galaxy-s23-fe/mint/hq_04.jpg",
+   "galaxy-s23-fe/mint/hq_05.jpg",
+   "galaxy-s23-fe/mint/hq_06.jpg"
+  ],
+  "Indigo": [
+   "galaxy-s23-fe/indigo/hq_00_hero.jpg",
+   "galaxy-s23-fe/indigo/hq_01.jpg",
+   "galaxy-s23-fe/indigo/hq_02.jpg",
+   "galaxy-s23-fe/indigo/hq_03.jpg",
+   "galaxy-s23-fe/indigo/hq_04.jpg",
+   "galaxy-s23-fe/indigo/hq_05.jpg",
+   "galaxy-s23-fe/indigo/hq_06.jpg"
+  ],
+  "Purple": [
+   "galaxy-s23-fe/purple/hq_00_hero.jpg",
+   "galaxy-s23-fe/purple/hq_01.jpg",
+   "galaxy-s23-fe/purple/hq_02.jpg",
+   "galaxy-s23-fe/purple/hq_03.jpg",
+   "galaxy-s23-fe/purple/hq_04.jpg",
+   "galaxy-s23-fe/purple/hq_05.jpg",
+   "galaxy-s23-fe/purple/hq_06.jpg"
+  ],
+  "Tangerine": [
+   "galaxy-s23-fe/tangerine/hq_00_hero.jpg",
+   "galaxy-s23-fe/tangerine/hq_01.jpg",
+   "galaxy-s23-fe/tangerine/hq_02.jpg",
+   "galaxy-s23-fe/tangerine/hq_03.jpg",
+   "galaxy-s23-fe/tangerine/hq_04.jpg",
+   "galaxy-s23-fe/tangerine/hq_05.jpg",
+   "galaxy-s23-fe/tangerine/hq_06.jpg"
+  ],
+  "_group": "galaxy-s23-fe/group/hq_00_all_colours.jpg"
+ },
+ "galaxy-s22": {
+  "Phantom Black": [
+   "galaxy-s22/phantom-black/hq_00_hero.jpg",
+   "galaxy-s22/phantom-black/hq_01.jpg",
+   "galaxy-s22/phantom-black/hq_02.jpg",
+   "galaxy-s22/phantom-black/hq_03.jpg",
+   "galaxy-s22/phantom-black/hq_04.jpg",
+   "galaxy-s22/phantom-black/hq_05.jpg",
+   "galaxy-s22/phantom-black/hq_06.jpg"
+  ],
+  "Phantom White": [
+   "galaxy-s22/phantom-white/hq_00_hero.jpg",
+   "galaxy-s22/phantom-white/hq_01.jpg",
+   "galaxy-s22/phantom-white/hq_02.jpg",
+   "galaxy-s22/phantom-white/hq_03.jpg",
+   "galaxy-s22/phantom-white/hq_04.jpg",
+   "galaxy-s22/phantom-white/hq_05.jpg",
+   "galaxy-s22/phantom-white/hq_06.jpg"
+  ],
+  "Green": [
+   "galaxy-s22/green/hq_00_hero.jpg",
+   "galaxy-s22/green/hq_01.jpg",
+   "galaxy-s22/green/hq_02.jpg",
+   "galaxy-s22/green/hq_03.jpg",
+   "galaxy-s22/green/hq_04.jpg",
+   "galaxy-s22/green/hq_05.jpg",
+   "galaxy-s22/green/hq_06.jpg"
+  ],
+  "Bora Purple": [
+   "galaxy-s22/bora-purple/hq_00_hero.jpg",
+   "galaxy-s22/bora-purple/hq_01.jpg",
+   "galaxy-s22/bora-purple/hq_02.jpg",
+   "galaxy-s22/bora-purple/hq_03.jpg",
+   "galaxy-s22/bora-purple/hq_04.jpg",
+   "galaxy-s22/bora-purple/hq_05.jpg",
+   "galaxy-s22/bora-purple/hq_06.jpg"
+  ],
+  "Graphite": [
+   "galaxy-s22/graphite/hq_00_hero.jpg",
+   "galaxy-s22/graphite/hq_01.jpg",
+   "galaxy-s22/graphite/hq_02.jpg",
+   "galaxy-s22/graphite/hq_03.jpg",
+   "galaxy-s22/graphite/hq_04.jpg",
+   "galaxy-s22/graphite/hq_05.jpg",
+   "galaxy-s22/graphite/hq_06.jpg"
+  ],
+  "Sky Blue": [
+   "galaxy-s22/sky-blue/hq_00_hero.jpg",
+   "galaxy-s22/sky-blue/hq_01.jpg",
+   "galaxy-s22/sky-blue/hq_02.jpg",
+   "galaxy-s22/sky-blue/hq_03.jpg",
+   "galaxy-s22/sky-blue/hq_04.jpg",
+   "galaxy-s22/sky-blue/hq_05.jpg",
+   "galaxy-s22/sky-blue/hq_06.jpg"
+  ],
+  "Violet": [
+   "galaxy-s22/violet/hq_00_hero.jpg",
+   "galaxy-s22/violet/hq_01.jpg",
+   "galaxy-s22/violet/hq_02.jpg",
+   "galaxy-s22/violet/hq_03.jpg",
+   "galaxy-s22/violet/hq_04.jpg",
+   "galaxy-s22/violet/hq_05.jpg",
+   "galaxy-s22/violet/hq_06.jpg"
+  ],
+  "Cream": [
+   "galaxy-s22/cream/hq_00_hero.jpg",
+   "galaxy-s22/cream/hq_01.jpg",
+   "galaxy-s22/cream/hq_02.jpg",
+   "galaxy-s22/cream/hq_03.jpg",
+   "galaxy-s22/cream/hq_04.jpg",
+   "galaxy-s22/cream/hq_05.jpg",
+   "galaxy-s22/cream/hq_06.jpg"
+  ],
+  "_group": "galaxy-s22/group/hq_00_all_colours.jpg"
+ },
+ "galaxy-s21-ultra-5g": {
+  "Phantom Black": [
+   "galaxy-s21-ultra-5g/black/hq_00_hero.jpg"
+  ],
+  "Phantom Silver": [
+   "galaxy-s21-ultra-5g/silver/hq_00_hero.jpg"
+  ],
+  "Phantom Brown": [
+   "galaxy-s21-ultra-5g/brown/hq_00_hero.jpg"
+  ],
+  "_group": "galaxy-s21-ultra-5g/black/hq_00_hero.jpg"
+ },
+ "galaxy-s22-ultra": {
+  "Phantom Black": [
+   "galaxy-s22-ultra/phantom-black/hq_00_hero.jpg"
+  ],
+  "_group": "galaxy-s22-ultra/phantom-black/hq_00_hero.jpg"
+ }
+}
