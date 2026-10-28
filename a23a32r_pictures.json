@@ -1,0 +1,25 @@
+{
+ "galaxy-a23": {
+  "Black": [
+   "galaxy-a23/black/00_hero.jpg",
+   "galaxy-a23/black/01.jpg",
+   "galaxy-a23/black/02.jpg",
+   "galaxy-a23/black/03.jpg",
+   "galaxy-a23/black/04.jpg",
+   "galaxy-a23/black/05.jpg"
+  ],
+  "_group": "galaxy-a23/black/00_hero.jpg"
+ },
+ "galaxy-a32-5g": {
+  "Black": [
+   "galaxy-a32-5g/black/00_hero.jpg",
+   "galaxy-a32-5g/black/01.jpg",
+   "galaxy-a32-5g/black/02.jpg",
+   "galaxy-a32-5g/black/03.jpg",
+   "galaxy-a32-5g/black/04.jpg",
+   "galaxy-a32-5g/black/05.jpg",
+   "galaxy-a32-5g/black/06.jpg"
+  ],
+  "_group": "galaxy-a32-5g/black/00_hero.jpg"
+ }
+}

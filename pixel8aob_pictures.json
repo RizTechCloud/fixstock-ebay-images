@@ -1,0 +1,21 @@
+{
+ "pixel-8a": {
+  "Obsidian": [
+   "pixel-8a/obsidian/00_hero.jpg",
+   "pixel-8a/obsidian/01.jpg"
+  ],
+  "Porcelain": [
+   "pixel-8a/porcelain/00_hero.jpg",
+   "pixel-8a/porcelain/01.jpg"
+  ],
+  "Bay": [
+   "pixel-8a/bay/00_hero.jpg",
+   "pixel-8a/bay/01.jpg"
+  ],
+  "Aloe": [
+   "pixel-8a/aloe/00_hero.jpg",
+   "pixel-8a/aloe/01.jpg"
+  ],
+  "_group": "pixel-8a/group/00_all_colours.jpg"
+ }
+}
