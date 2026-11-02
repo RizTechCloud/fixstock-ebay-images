@@ -1,0 +1,142 @@
+{
+ "iphone-16": {
+  "Black": [
+   "iphone-16/black/00.jpg",
+   "iphone-16/black/01.jpg",
+   "iphone-16/black/02.jpg",
+   "iphone-16/black/03.jpg"
+  ],
+  "White": [
+   "iphone-16/white/00.jpg",
+   "iphone-16/white/01.jpg",
+   "iphone-16/white/02.jpg",
+   "iphone-16/white/03.jpg"
+  ],
+  "Pink": [
+   "iphone-16/pink/00.jpg",
+   "iphone-16/pink/01.jpg",
+   "iphone-16/pink/02.jpg",
+   "iphone-16/pink/03.jpg"
+  ],
+  "Teal": [
+   "iphone-16/teal/00.jpg",
+   "iphone-16/teal/01.jpg",
+   "iphone-16/teal/02.jpg",
+   "iphone-16/teal/03.jpg"
+  ],
+  "Ultramarine": [
+   "iphone-16/ultramarine/00.jpg",
+   "iphone-16/ultramarine/01.jpg",
+   "iphone-16/ultramarine/02.jpg",
+   "iphone-16/ultramarine/03.jpg"
+  ]
+ },
+ "iphone-16e": {
+  "Black": [
+   "iphone-16e/black/00.jpg",
+   "iphone-16e/black/01.jpg",
+   "iphone-16e/black/02.jpg"
+  ],
+  "White": [
+   "iphone-16e/white/00.jpg",
+   "iphone-16e/white/01.jpg",
+   "iphone-16e/white/02.jpg"
+  ]
+ },
+ "galaxy-a33-5g": {
+  "Awesome Black": [
+   "galaxy-a33-5g/awesome-black/00.jpg",
+   "galaxy-a33-5g/awesome-black/01.jpg",
+   "galaxy-a33-5g/awesome-black/02.jpg",
+   "galaxy-a33-5g/awesome-black/03.jpg",
+   "galaxy-a33-5g/awesome-black/04.jpg",
+   "galaxy-a33-5g/awesome-black/05.jpg"
+  ]
+ },
+ "galaxy-a14-5g": {
+  "Black": [
+   "galaxy-a14-5g/black/00.jpg",
+   "galaxy-a14-5g/black/01.jpg",
+   "galaxy-a14-5g/black/02.jpg",
+   "galaxy-a14-5g/black/03.jpg",
+   "galaxy-a14-5g/black/04.jpg",
+   "galaxy-a14-5g/black/05.jpg"
+  ]
+ },
+ "galaxy-s24-nov": {
+  "Onyx Black": [
+   "galaxy-s24-nov/onyx-black/00.jpg",
+   "galaxy-s24-nov/onyx-black/01.jpg",
+   "galaxy-s24-nov/onyx-black/02.jpg",
+   "galaxy-s24-nov/onyx-black/03.jpg",
+   "galaxy-s24-nov/onyx-black/04.jpg",
+   "galaxy-s24-nov/onyx-black/05.jpg"
+  ],
+  "Marble Grey": [
+   "galaxy-s24-nov/marble-grey/00.jpg",
+   "galaxy-s24-nov/marble-grey/01.jpg",
+   "galaxy-s24-nov/marble-grey/02.jpg",
+   "galaxy-s24-nov/marble-grey/03.jpg",
+   "galaxy-s24-nov/marble-grey/04.jpg",
+   "galaxy-s24-nov/marble-grey/05.jpg"
+  ],
+  "Cobalt Violet": [
+   "galaxy-s24-nov/cobalt-violet/00.jpg",
+   "galaxy-s24-nov/cobalt-violet/01.jpg",
+   "galaxy-s24-nov/cobalt-violet/02.jpg",
+   "galaxy-s24-nov/cobalt-violet/03.jpg",
+   "galaxy-s24-nov/cobalt-violet/04.jpg",
+   "galaxy-s24-nov/cobalt-violet/05.jpg"
+  ],
+  "Amber Yellow": [
+   "galaxy-s24-nov/amber-yellow/00.jpg",
+   "galaxy-s24-nov/amber-yellow/01.jpg",
+   "galaxy-s24-nov/amber-yellow/02.jpg",
+   "galaxy-s24-nov/amber-yellow/03.jpg",
+   "galaxy-s24-nov/amber-yellow/04.jpg",
+   "galaxy-s24-nov/amber-yellow/05.jpg"
+  ]
+ },
+ "pixel-9": {
+  "Obsidian": [
+   "pixel-9/obsidian/00.jpg",
+   "pixel-9/obsidian/01.jpg",
+   "pixel-9/obsidian/02.jpg",
+   "pixel-9/obsidian/03.jpg"
+  ],
+  "Porcelain": [
+   "pixel-9/porcelain/00.jpg",
+   "pixel-9/porcelain/01.jpg",
+   "pixel-9/porcelain/02.jpg",
+   "pixel-9/porcelain/03.jpg"
+  ]
+ },
+ "pixel-9-pro": {
+  "Obsidian": [
+   "pixel-9-pro/obsidian/00.jpg",
+   "pixel-9-pro/obsidian/01.jpg",
+   "pixel-9-pro/obsidian/02.jpg",
+   "pixel-9-pro/obsidian/03.jpg"
+  ],
+  "Porcelain": [
+   "pixel-9-pro/porcelain/00.jpg",
+   "pixel-9-pro/porcelain/01.jpg",
+   "pixel-9-pro/porcelain/02.jpg",
+   "pixel-9-pro/porcelain/03.jpg"
+  ]
+ },
+ "pixel-9-pro-xl": {
+  "Obsidian": [
+   "pixel-9-pro-xl/obsidian/00.jpg",
+   "pixel-9-pro-xl/obsidian/01.jpg",
+   "pixel-9-pro-xl/obsidian/02.jpg",
+   "pixel-9-pro-xl/obsidian/03.jpg"
+  ],
+  "Porcelain": [
+   "pixel-9-pro-xl/porcelain/00.jpg",
+   "pixel-9-pro-xl/porcelain/01.jpg",
+   "pixel-9-pro-xl/porcelain/02.jpg",
+   "pixel-9-pro-xl/porcelain/03.jpg"
+  ]
+ }
+}
